@@ -11,11 +11,9 @@ Pictures from <a href="https://unsplash.com/">unsplash</a>
    <a href="https://www.npmjs.com/package/body-parser">body-parser</a>
    <br/>
     <a href="https://www.npmjs.com/package/jsonwebtoken">jsonwebtoken</a>
-   <br/>
-    
+   <br/> 
    <a href="https://www.npmjs.com/package/passport">passport</a>
    <br/>
-   
    <a href="https://www.npmjs.com/package/passport-jwt">passport-jwt</a>
    <br/>
     <a href="https://www.npmjs.com/package/validator">validator</a>
